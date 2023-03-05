@@ -1,7 +1,5 @@
 # Hi! I'm Uiratan 👋 - Full Stack Web Developer
 
-<br>
-
 <div align="center">
 <table>
     <thead>
