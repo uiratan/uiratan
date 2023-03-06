@@ -7,7 +7,7 @@
     <thead>
       <tr>
         <th colspan="2">Technologies I Use</th>
-        <th>My Code</th>
+        <th>GitHub Statistics</th>
       </tr>
     </thead>
     <tbody>
