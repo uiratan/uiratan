@@ -1,10 +1,8 @@
-[![Uiratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiratan)](https://github.com/uiratan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiratan)](https://github.com/uiratan/github-readme-stats)
-
 # Hi! I'm Uiratan 👋 - Full Stack Web Developer
 
 I am a professional who always seeks to improve my knowledge and contribute to creating or evolving the products and processes of the companies I work for. Currently, I have more than 20 years of experience working with systems development in the most diverse languages and more than 10 years working with process management. I have been a servant of the federal judiciary in Brazil for 17 years. Right now, I'm looking for opportunities where I can use my knowledge to develop the best solutions on the market.
+
+[![Uiratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiratan&layout=compact)](https://github.com/uiratan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiratan)](https://github.com/uiratan/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=uiratan" width="45%" alt="languages graph"/><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=uiratan" width="55%" alt="stats graph"/>
     
