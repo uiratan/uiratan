@@ -1,3 +1,7 @@
+[![Uiratan's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiratan)](https://github.com/uiratan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiratan)](https://github.com/uiratan/github-readme-stats)
+
 # Hi! I'm Uiratan 👋 - Full Stack Web Developer
 
 I am a professional who always seeks to improve my knowledge and contribute to creating or evolving the products and processes of the companies I work for. Currently, I have more than 20 years of experience working with systems development in the most diverse languages and more than 10 years working with process management. I have been a servant of the federal judiciary in Brazil for 17 years. Right now, I'm looking for opportunities where I can use my knowledge to develop the best solutions on the market.
