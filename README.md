@@ -6,7 +6,6 @@ I am a professional who always seeks to improve my knowledge and contribute to c
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiratan&layout=compact)](https://github.com/uiratan/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uiratan)](https://github.com/uiratan/github-readme-stats) 
 </div>
 
 # Technologies I Use
