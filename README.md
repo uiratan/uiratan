@@ -13,12 +13,9 @@ I am a professional who always seeks to improve my knowledge and contribute to c
 # Portfolio     
 ## Only HTML / CSS
 - https://uiratan.github.io/apeperia/
-- https://uiratan.github.io/quiron-bootstrap/
 - https://uiratan.github.io/meteora/
 - https://uiratan.github.io/alura-plus/
 - https://uiratan.github.io/alura-html-css-dozero-portfolio/
-- https://uiratan.github.io/aluradev-challange-frontend/
-
 
 ## JS Vanilla
 - https://uiratan.github.io/js-hang-game/
